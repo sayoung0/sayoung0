@@ -5,13 +5,6 @@
 <h2 align="left">About me</h2>
 <p align="left">📚 I'm currently learning ...<br> I am interested in semiconductor digital design and am studying in various fields. Especially now, I am studying Verilog HDL and C++ mainly.<br><br>🎯 Goals: ...<br>I am studying with the aim of designing AI accelerators and NPUs.<br><br>✨ I'm open to collaboration.<br>I am interested in collaborating on digital system design and AI accelerators. I am eager to work with diligent and creative people to tackle challenging problems, share my knowledge, and grow together.</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayoung0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="
-
-
-<img src="http://mazandi.herokuapp.com/api?handle=ayoung&theme=grass"/>
-
 
 #### Languages & Syntax
 
@@ -46,5 +39,10 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu badge">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux badge">
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayoung0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="
 
+
+<img src="http://mazandi.herokuapp.com/api?handle=ayoung&theme=grass"/>
 
