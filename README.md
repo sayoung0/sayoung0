@@ -15,7 +15,7 @@
 
 #### Hardware & Controllers
 
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino badge"> <img src="https://img.shields.io/badge/Jetson%20Nano-2D533C?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson Nano badge"> <img src="https://img.shields.io/badge/FPGA-0079C3?style=for-the-badge&logo=microchip&logoColor=white" alt="AVR badge"> <img src="https://img.shields.io/badge/BeagleBone-773822?style=for-the-badge&logo=beaglebone&logoColor=white" alt="BeagleBone badge"> <img src="https://img.shields.io/badge/AVR%20Microcontrollers-5D3292?style=for-the-badge&logo=microchip&logoColor=white" alt="AVR badge">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino badge"> <img src="https://img.shields.io/badge/FPGA-0079C3?style=for-the-badge&logo=microchip&logoColor=white" alt="AVR badge"> <img src="https://img.shields.io/badge/BeagleBone-773822?style=for-the-badge&logo=beaglebone&logoColor=white" alt="BeagleBone badge"> <img src="https://img.shields.io/badge/AVR%20Microcontrollers-5D3292?style=for-the-badge&logo=microchip&logoColor=white" alt="AVR badge">
 
 #### Tools & Frameworks
 
