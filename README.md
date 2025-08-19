@@ -1,10 +1,11 @@
 <h1 align="left">안녕하세요?</h1>
 <p align="left">Hello👋 I'm a 3rd grade student majoring in semiconductor electronics. I made this page because I wanted to organize and share my code study records.</p>
-<p align="left">📧email: say92321234@gmail.com
+
 
 
 <h2 align="left">About me</h2>
 <p align="left">📚 I'm currently learning ...<br> I am interested in semiconductor digital design and am studying in various fields. Especially now, I am studying Verilog HDL and C++ mainly.<br><br>🎯 Goals: ...<br>I am studying with the aim of designing AI accelerators and NPUs.<br><br>✨ I'm open to collaboration.<br>I am interested in collaborating on digital system design and AI accelerators. I am eager to work with diligent and creative people to tackle challenging problems, share my knowledge, and grow together.</p>
+<p align="left">📧email: say92321234@gmail.com
 
 
 #### Languages & Syntax
