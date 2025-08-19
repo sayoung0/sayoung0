@@ -31,6 +31,8 @@
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS badge">
 <img src="https://img.shields.io/badge/Vivado-0079C3?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado badge">
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB badge">
+<img src="https://img.shields.io/badge/Cadence%20Virtuoso-A00000?style=for-the-badge&logo=cadence&logoColor=white" alt="Cadence Virtuoso badge">
+<img src="https://img.shields.io/badge/KiCad-2E898A?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad badge">
 
 #### Using OS
 
