@@ -1,5 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">안녕하세요?</h1>
 <p align="left">Hello👋 I'm a 3rd grade student majoring in semiconductor electronics. I made this page because I wanted to organize and share my code study records.</p>
+<p align="left">📧email: say92321234@gmail.com
 
 
 <h2 align="left">About me</h2>
