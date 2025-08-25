@@ -4,7 +4,7 @@
 
  https://github.com/user-attachments/assets/c869394f-9efe-4a6f-a9e7-d05180d26628
 <h2 align="left">About me</h2>
-<p align="left">📚 I'm currently learning ...<br> I am interested in semiconductor digital design and am studying in various fields. Especially now, I am studying Verilog HDL and C++ mainly.<br><br>🎯 Goals: ...<br>I am studying with the aim of designing AI accelerators and NPUs.<br><br>✨ I'm open to collaboration.<br>I am interested in collaborating on digital system design and AI accelerators. I am eager to work with diligent and creative people to tackle challenging problems, share my knowledge, and grow together.</p>
+<p align="left">📚 I'm currently learning ...<br> I'm interested in semiconductor layout design and I'm studying various things. Especially now, I'm mainly studying Verilog HDL and C++.<br><br>🎯 Goals: ...<br>My goal is to be a layout design expert<br><br>✨ I'm open to collaboration.<br>I am interested in collaborating on layout design and AI accelerators. I am eager to work with diligent and creative people to tackle challenging problems, share my knowledge, and grow together.</p>
 <p align="left">📧email: say92321234@gmail.com
 
 
